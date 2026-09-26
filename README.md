@@ -1,91 +1,107 @@
 # Hi, I'm Aarti 👋
 
-🧬 **Biomedical Researcher | Immunology | Proteomics | Biomarker Discovery | Bioinformatics**
+Biomedical researcher exploring the intersection of immunology, proteomics, biomarker discovery, and computational biology.
 
-I am a biomedical researcher working at the intersection of **immunology, proteomics, and computational biology**. My research interests include autoimmune diseases, extracellular vesicles, biomarker discovery, and data-driven approaches to understanding disease mechanisms.
+I am passionate about turning complex biological data into meaningful insights that improve understanding of autoimmune disease and support translational research.
 
-I am currently developing my skills in **R and Python** to make biological and clinical data analysis more reproducible, efficient, and accessible.
+## About Me
+
+- 🧬 Research focus: systemic lupus erythematosus, lupus nephritis, complement biology, and proteomic biomarker discovery
+- 🧪 Interested in: proteomics, extracellular vesicles, immunology, and reproducible data workflows
+- 📊 Skilled in: differential expression analysis, ROC/AUC evaluation, pathway enrichment, and statistical interpretation
+- 💻 Learning and building: Python and R workflows for scientific analysis, visualization, and automation
+
+## Core Research Interests
+
+- Autoimmune disease and immunology
+- Proteomics and biomarker discovery
+- Complement assays and disease mechanisms
+- Statistical analysis and clinical interpretation
+- Reproducible bioinformatics workflows
+- Data visualization for scientific storytelling
+
+## Tools & Technologies
+
+### Data Analysis & Programming
+
+- Python
+- R
+- Pandas
+- NumPy
+- scikit-learn
+- Matplotlib
+- Seaborn
+
+### Bioinformatics & Statistics
+
+- Differential expression analysis
+- PCA and clustering
+- ROC/AUC analysis
+- Correlation analysis
+- Pathway enrichment
+- Logistic regression
+- Visualization of biological data
+
+### Research Areas
+
+- Proteomics
+- ELISA and assay analysis
+- Complement assays
+- Biomarker validation
+- Clinical and experimental data analysis
+
+## Featured Projects
+
+### [SLE Proteomics Biomarker Analysis](https://github.com/Aarti-24495/sle-proteomics-biomarker-analysis)
+
+Proteomic biomarker discovery in SLE with lupus nephritis using differential expression, exosome/protein analysis, ROC analysis, and pathway enrichment.
+
+### [SLE Proteomics Biomarker Discovery](https://github.com/Aarti-24495/sle-proteomics-biomarker-discovery)
+
+A reproducible Python-based workflow for SLE/LN biomarker discovery using proteomic data and computational analysis.
+
+### [C3NeF Functional Assay](https://github.com/Aarti-24495/c3nef-functional-assay)
+
+Functional analysis of C3 nephritic factor (C3NeF) assays using synthetic hemolytic data.
+
+### [CH50 Von Krogh Assay](https://github.com/Aarti-24495/ch50-von-krogh-assay)
+
+Quantitative analysis of CH50 complement assays using the Von Krogh method.
+
+## What I Care About
+
+> Turning biological data into clear, actionable scientific insight.
+
+I enjoy building analytical workflows that make biomedical research more reproducible, interpretable, and relevant to real-world questions in disease biology.
+
+## Current Focus
+
+- Biomarker discovery in autoimmune disease
+- Proteomic and immunological data analysis
+- Computational tools for research reproducibility
+- Improving reproducible analysis pipelines in Python and R
+- Translating analysis into interpretable biology
+
+## Connect
+
+I’m always interested in collaborations, research discussions, or scientific projects at the intersection of biology and data.
+
+- GitHub: [@Aarti-24495](https://github.com/Aarti-24495)
+- Projects: see my repositories above
+- Research interests: proteomics, immunology, biomarker discovery, bioinformatics
 
 ---
 
-## 🔬 Research Interests
+### Quick note
 
-* 🧬 Immunology & Autoimmune Diseases
-* 🧪 Proteomics & Extracellular Vesicles
-* 🩸 Complement System & Complement Assays
-* 🎯 Biomarker Discovery & Validation
-* 📊 Clinical & Biological Data Analysis
-* 💻 Bioinformatics
-* 📈 Statistical Analysis & Data Visualization
+This profile is intentionally clean and research-focused, but I can make it even more personal with your details.
 
----
+If you want, I can tailor the README further with:
 
-## 💻 Tools & Technologies
+- your profession and current role
+- your top skills and tools
+- your favorite projects or papers
+- your social links, email, or ORCID
+- a more personal, creative, or academic tone
 
-**Programming & Data Analysis**
-
-`R` `Python` `Pandas` `NumPy` `Matplotlib` `scikit-learn`
-
-**Bioinformatics & Statistics**
-
-`Differential Expression Analysis` `PCA` `ROC/AUC Analysis` `Correlation Analysis` `GO/KEGG Enrichment`
-
-**Research**
-
-`Proteomics` `ELISA` `Complement Assays` `Biomarker Analysis` `Scientific Data Visualization`
-
----
-
-## 🧪 Featured Projects
-
-### 🧬 SLE Proteomics Analysis
-
-Analysis of proteomic data for identification and characterization of differentially expressed proteins and potential biomarkers in systemic lupus erythematosus.
-
-**Focus:** Differential expression • PCA • Enrichment analysis • Visualization
-
-### 📊 Biomarker ROC Analysis
-
-Statistical workflow for evaluating individual and combined biomarkers using ROC curves, AUC, sensitivity, specificity, and logistic regression.
-
-**Focus:** Biomarker validation • ROC/AUC • Statistical modelling
-
-### 🧪 ELISA 4PL Calculator
-
-A Python-based tool for fitting four-parameter logistic (4PL) standard curves and estimating unknown concentrations from ELISA data.
-
-**Focus:** 4PL modelling • Standard curves • Duplicate analysis • CV%
-
-### 🩸 CH50 / Complement Assay Calculator
-
-A computational workflow for analysing complement haemolytic assay data, including OD correction, percentage lysis and CH50-related calculations.
-
-**Focus:** Complement assays • OD analysis • Data automation
-
----
-
-## 📚 Currently Learning
-
-* Python for biomedical data analysis
-* Statistical modelling
-* Machine learning for biomarker discovery
-* Reproducible research workflows
-* Data visualization
-* Bioinformatics pipelines
-
----
-
-## 🎯 Research Philosophy
-
-> **Turning biological data into meaningful scientific insights.**
-
-I am particularly interested in developing computational approaches that can complement experimental research and improve the analysis and interpretation of biomedical data.
-
----
-
-## 📫 Connect With Me
-
-Feel free to explore my repositories and research projects.
-
-**Research • Immunology • Proteomics • Bioinformatics • Data Science**
-
+Please send me any of the above and I’ll refine the profile to match you more closely.
