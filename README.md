@@ -92,16 +92,6 @@ I’m always interested in collaborations, research discussions, or scientific p
 
 ---
 
-### Quick note
 
-This profile is intentionally clean and research-focused, but I can make it even more personal with your details.
 
-If you want, I can tailor the README further with:
 
-- your profession and current role
-- your top skills and tools
-- your favorite projects or papers
-- your social links, email, or ORCID
-- a more personal, creative, or academic tone
-
-Please send me any of the above and I’ll refine the profile to match you more closely.
